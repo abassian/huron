@@ -1,0 +1,29 @@
+# IDE
+.vscode
+.idea/
+
+# Go test output
+*/*.test
+*/*.out
+
+
+demo2
+docs2
+
+rename_*
+# Build output
+build
+
+# Dependencies
+vendor
+glide.lock
+
+# gomobile compilation output
+*.aar
+*.jar
+
+# vi swap files
+*.swp
+
+
+.#*
